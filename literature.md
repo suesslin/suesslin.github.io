@@ -20,9 +20,14 @@ This is a list of sources I read in an academic context and recommend. It is not
   <li>
     <h4>Academic</h4>
 <ul>
-  <li>C. Niebel, “The impact of the general data protection regulation on innovation and the global political economy,” Computer Law & Security Review, vol. 40, p. 105523, 2021, doi: <a href="https://doi.org/10.1016/j.clsr.2020.105523">https://doi.org/10.1016/j.clsr.2020.105523</a>.</li>
-  <li>Z. Deng and J. Dai, “First Court Judgment on Cross-Border Personal Information Transfer in China: Local Adaptation Required for Multinational Companies’ GDPR Privacy Policies,” Accessed: Jan. 30, 2025. [Online]. Available: <a href="https://www.lexology.com/library/detail.aspx?g=0ef7b467-b539-44b0-b138-b77ef0ac3767">https://www.lexology.com/library/detail.aspx?g=0ef7b467-b539-44b0-b138-b77ef0ac3767</a>.</li>
-  <li>D. Albrecht, “Chinese first Personal Information Protection Law in contrast to the European GDPR,” Computer Law Review International, vol. 23, no. 1, pp. 1–5, 2022, doi: 10.9785/cri-2022-230102.</li>
+  <li>Giunchiglia, E., Stoian, M. C., & Lukasiewicz, T. (2022). Deep Learning with Logical Constraints. In L. D. Raedt (Ed.), Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence, IJCAI-22 (pp. 5478–5485). International Joint Conferences on Artificial Intelligence Organization. <a href="https://doi.org/10.24963/ijcai.2022/767">https://doi.org/10.24963/ijcai.2022/767</a>
+</li>
+  <li>
+  Niebel, C. (2021). The impact of the general data protection regulation on innovation and the global political economy. Computer Law & Security Review, 40, 105523. <a href="https://doi.org/10.1016/j.clsr.2020.105523">https://doi.org/10.1016/j.clsr.2020.105523</a></li>
+  <li>
+
+  Deng, Z., & Dai, J. (n.d.). First Court Judgment on Cross-Border Personal Information Transfer in China: Local Adaptation Required for Multinational Companies’ GDPR Privacy Policies. Retrieved January 30, 2025, from <a href="https://www.lexology.com/library/detail.aspx?g=0ef7b467-b539-44b0-b138-b77ef0ac3767">https://www.lexology.com/library/detail.aspx?g=0ef7b467-b539-44b0-b138-b77ef0ac3767</a></li>
+  <li>Albrecht, D. (2022). Chinese first Personal Information Protection Law in contrast to the European GDPR. Computer Law Review International, 23(1), 1–5. <a href="https://doi.org/doi:10.9785/cri-2022-230102">https://doi.org/doi:10.9785/cri-2022-230102</a></li>
 </ul>
 
   </li>
@@ -33,13 +38,4 @@ This is a list of sources I read in an academic context and recommend. It is not
     <li>Sarkar, Abhinav. "Getting Started with Nix for Haskell". <a href="https://abhinavsarkar.net/posts/nix-for-haskell/">https://abhinavsarkar.net/posts/nix-for-haskell/</a></li>
   </ul>
 </li>
-</ul>
-
-
-<h2>Wishlist</h2>
-<ul>
-  <li><strike>Fuchs, C., 2021. <i>Das digitale Kapital</i>, Vienna: Mandelbaum Verlag eG</strike></li>
-  <li>Daum, T., 2023. <i>Big Data China</i>, Vienna: Mandelbaum Verlag eG</li>
-  <li>Daum, T., 2017. <i>Das Kapital sind wir</i>, Hamburg: Edition Nautilus GmbH</li>
-  <li>Becker, M., 2017. <i>Automatisierung und Ausbeutung</i>, Vienna: Promedia Verlag</li>
 </ul>
