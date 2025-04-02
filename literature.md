@@ -4,7 +4,7 @@ title: Literature
 permalink: /literature/
 ---
 This is a list of sources I read in an academic context and recommend. It's keep on growing.
-Last updated: {{ site.time | date: "%-d. %B %Y" }}
+This page was updated last on {{ site.time | date: "%-d. %B %Y" }}.
 
 <h2>Recommendations</h2>
 <h3>Books</h3>
