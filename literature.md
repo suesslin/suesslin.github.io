@@ -10,7 +10,7 @@ This is a list of sources I read in an academic context and recommend. It is not
 <ul>
   <li>German
     <ul>
-       <li>Schadt, Peter. "Digitalisierung" PapyRossa Verlags GmbH & Co. KG (2022)</li>
+       <li>Schadt, P. (2022). Digitalisierung. PapyRossa Verlags GmbH & Co. KG.</li>
     </ul>
   </li>
 </ul>
@@ -34,7 +34,9 @@ This is a list of sources I read in an academic context and recommend. It is not
   <li>
   <h4>Other</h4>
   <ul>
-      <li>DigiChina, “Translation of the Personal Information Protection Law of the People’s Republic of China (Effective Nov. 1, 2021),” 2021, Stanford University. [Online]. Available: <a href="https://digichina.stanford.edu/work/translation-personal-information-protection-law-of-the-peoples-republic-of-china-effective-nov-1-2021">https://digichina.stanford.edu/work/translation-personal-information-protection-law-of-the-peoples-republic-of-china-effective-nov-1-2021</a></li>
+      <li>
+
+  DigiChina. (2021). Translation of the Personal Information Protection Law of the People’s Republic of China (Effective Nov. 1, 2021). Stanford University.<a href="https://digichina.stanford.edu/work/translation-personal-information-protection-law-of-the-peoples-republic-of-china-effective-nov-1-2021">https://digichina.stanford.edu/work/translation-personal-information-protection-law-of-the-peoples-republic-of-china-effective-nov-1-2021</a></li>
     <li>Sarkar, Abhinav. "Getting Started with Nix for Haskell". <a href="https://abhinavsarkar.net/posts/nix-for-haskell/">https://abhinavsarkar.net/posts/nix-for-haskell/</a></li>
   </ul>
 </li>
