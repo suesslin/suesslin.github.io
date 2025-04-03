@@ -3,7 +3,7 @@ layout: page
 title: Literature
 permalink: /literature/
 ---
-This is a list of sources I read in an academic context and recommend. It's keep on growing.
+This is a list of sources I read in an academic context and recommend. It will keep on growing.
 This page was updated last on {{ site.time | date: "%-d. %B %Y" }}.
 
 <h2>Recommendations</h2>
