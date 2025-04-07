@@ -14,10 +14,10 @@ Please feel free to reach out to me using the email address displayed in the ima
 <table>
   <tr>
     <td>Title <br>Anrede</td>
-    <td><i>Mx. Suesslin</i> or just <i>Lou Suesslin</i> <br> <i>Lou Süsslin</i> (plural)</td>
+    <td><i>Mx. Suesslin</i> or just <i>Lou Suesslin</i> <br> <i>Lou Süsslin</i> (neutral, sonst feminin)</td>
   </tr>
   <tr>
     <td>Pronouns <br>Pronomen</td>
-    <td><i>They/them</i> <br> <i>Sie/deren</i></td>
+    <td><i>They/them</i> <br> <i>Sie/ihr</i></td>
   </tr>
 </table>
