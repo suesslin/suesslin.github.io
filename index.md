@@ -5,7 +5,7 @@
 layout: page
 ---
 
-<figure style="float: right; max-width: 30%; height: auto; @media only screen and (max-width: 780px) { float: none; }">
+<figure style="margin-bottom: 0; padding: 40px; float: right; max-width: 30%; height: auto; @media only screen and (max-width: 780px) { float: none; }">
   <img style="width: 120px; border-radius: 50%" src="https://avatars.githubusercontent.com/u/15147703?v=4">
   <figcaption style="color: #828282; padding-top: 5px; font-size: 10pt;">Lou as of April 2025</figcaption>
 </figure>
