@@ -5,11 +5,10 @@
 layout: page
 ---
 
-<div style="@media only screen and (max-width: 780px) { float: none; } float: right; max-width: 30%; height: auto;">
-    <img style="width: 120px;" src="https://avatars.githubusercontent.com/u/15147703?v=4">
-    <p style="color: #828282; padding-top: 5px; font-size: 10pt;">April 2025</p>
-</div>
-<div style="float: left; width: 65%; padding-right: 5%; @media only screen and (max-width: 780px) { float: none; }">
+<figure style="float: right; max-width: 30%; height: auto; @media only screen and (max-width: 780px) { float: none; }">
+  <img style="width: 120px; border-radius: 50%" src="https://avatars.githubusercontent.com/u/15147703?v=4">
+  <figcaption style="color: #828282; padding-top: 5px; font-size: 10pt;">Lou as of April 2025</figcaption>
+</figure>
 
 <h1>Introduction</h1>
 
