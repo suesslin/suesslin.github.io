@@ -1,9 +1,4 @@
 ---
 ---
 
-// Import the custom variables first
-@import "minima/custom-variables";
-
-// Import the default skin and initialize styles
-@import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
-@import "minima/initialize";
+@import "minima/initialize";   // Initialize the base styles
