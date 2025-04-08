@@ -1,4 +1,9 @@
 ---
 ---
 
-@import "minima/initialize";   // Initialize the base styles
+// Add your custom font
+@import url('https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;700&display=swap');
+
+$base-font-family: 'Schibsted Grotesk', sans-serif !important;
+
+@import "minima/initialize";  // Initialize the base styles
