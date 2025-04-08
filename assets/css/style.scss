@@ -1,11 +1,9 @@
 ---
 ---
 
-// Add your custom font
-@import url('https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;700&display=swap');
+// Import the custom variables first
+@import "minima/custom-variables";
 
-$base-font-family: 'Schibsted Grotesk', sans-serif !important;
-
-@import
-  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
-  "minima/initialize";
+// Import the default skin and initialize styles
+@import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
+@import "minima/initialize";
