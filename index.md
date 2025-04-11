@@ -31,7 +31,7 @@ layout: page
 </ul>
 
 <p>
-  In the summer of 2022, I contributed to a Human-AI Interaction Design research project for aviation at <em>fortiss</em> — the research institute of the Free State of Bavaria for software-intensive systems and services. I also worked in industry as a Software Engineering Working Student at <em>gutefrage.net</em>, a major German Q&A platform, from July 2020 to September 2021.
+  In the summer of 2022, I contributed to a Human-AI Interaction Design research project for aviation at <em>fortiss</em> — the research institute of the Free State of Bavaria for software-intensive systems and services — under the guidance of Zelun Tony Zhang. I also worked as a Software Engineering Working Student at <em>gutefrage.net</em>, a leading German Q&A platform, from July 2020 to September 2021, primarily mentored by Felix Bruckmeier.
 </p>
 
 <p>
