@@ -44,31 +44,29 @@ layout: page
   <a href="https://www.residentadvisor.net/dj/elah">Resident Advisor</a>
 </p>
 
-<h2>Recent academic work</h2>
-<ul>
-    <li><strong>(<a href="http://doi.org/10.13140/RG.2.2.29957.87522">1</a>)</strong> <i>Digital Sovereignty and Geopolitics in the Field of Data Protection: A Comparison of the EU, China, and the USA</i><br>
+<h2>Academic Works</h2>
+<ul style="list-style-type: none;">
+    <li><strong>[<a href="http://doi.org/10.13140/RG.2.2.29957.87522">1</a>]</strong> <i>Digital Sovereignty and Geopolitics in the Field of Data Protection: A Comparison of the EU, China, and the USA</i><br>
         <strong>Contributors:</strong> Naida Dzigal, Diana Safarpour, Dante Godolja, Lou Elah Süsslin<br>
         <strong>Course:</strong> <i>Digital Humanism</i> at <a href="https://informatics.tuwien.ac.at/digital-humanism/"><i>UNESCO Chair on Digital Humanism</i></a><br>
         <strong>Grade:</strong> 1.0 (Very Good)<br>
         <strong>Description:</strong> A comparative study of digital sovereignty and its geopolitical implications in data protection across the EU, China, and the USA.
     </li>
-    <li><strong>(<a href="https://arxiv.org/abs/2406.08959">2</a>)</strong> <i>Beyond Recommendations: From Backward to Forward AI Support of Pilots’ Decision-Making Process</i><br>
+    <li><strong>[<a href="https://arxiv.org/abs/2406.08959">2</a>]</strong> <i>Beyond Recommendations: From Backward to Forward AI Support of Pilots’ Decision-Making Process</i><br>
         <strong>Contributors:</strong> Zelun Tony Zhang, Sebastian S. Feger, Lucas Dullenkopf, Rulu Liao, Lou Süsslin, Yuanting Liu, Andreas Butz<br>
         <strong>Publication:</strong> PACM HCI Vol. 8, No. CSCW2, October 2024.<br>
         <strong>Description:</strong> A project focused on AI-driven support for pilots' decision-making processes. My contributions centered around the development of novel AI interaction paradigms in high-risk environments.
     </li>
-    <li><strong>(<a href="https://www.researchgate.net/publication/371987298_Visualizing_and_Counteracting_Touch_Overlap_during_Public_Display_Interaction">3</a>)</strong> <i>Visualizing and Counteracting Touch Overlap during Public Display Interaction</i><br>
-        <strong>Supervisors:</strong> Linda Hirsch, Prof. Dr. Florian Alt, Prof Dr. Ville Mäkelä<br>
-        <strong>Thesis:</strong> Bachelor's thesis at the HCI group of LMU Munich.<br>
-        <strong>Description:</strong> Investigated user interaction with public displays and developed methods for visualizing and counteracting touch overlap in shared spaces.
+    <li><strong>[<a href="https://www.researchgate.net/publication/371987298_Visualizing_and_Counteracting_Touch_Overlap_during_Public_Display_Interaction">3</a>]</strong> <i>Visualizing and Counteracting Touch Overlap during Public Display Interaction</i><br>
+        <strong>Supervisors:</strong> Linda Hirsch, Prof. Dr. Florian Alt, Prof. Dr. Ville Mäkelä<br>
+        <strong>Bachelor's Thesis:</strong> HCI group at LMU Munich.
     </li>
-    <li><strong>(<a href="https://github.com/luki/programmiersprache-l">4</a>)</strong> <i>Programmiersprache L</i><br>
-        <strong>Group Members:</strong> Marco D'Amelio, Maximilian Seilmaier<br>
-        <strong>Description:</strong> A logical programming language written in Haskell for a practical seminar, focusing on building a new language framework and interpreter.
+    <li><strong>[<a href="https://github.com/luki/programmiersprache-l">4</a>]</strong> <i>Programmiersprache L</i><br>
+        <strong>Description:</strong> A logical programming language written in Haskell for a practical seminar.<br>
+        <strong>Group Members:</strong> Marco D'Amelio, Maximilian Seilmaier.
     </li>
-    <li><strong>(<a href="https://github.com/luki/alleviating-struggles-in-the-office">5</a>)</strong> <i>Alleviating Struggles at the Office: Leveraging Mobile Sensing to Understand and Counteract Issues</i><br>
-        <strong>Course:</strong> Media Informatics seminar paper<br>
-        <strong>Description:</strong> This work explored the use of mobile sensing technologies to detect and mitigate common workplace struggles, improving user productivity and well-being.
+    <li><strong>[<a href="https://github.com/luki/alleviating-struggles-in-the-office">5</a>]</strong> <i>Alleviating Struggles at the Office: Leveraging Mobile Sensing to Understand and Counteract Issues</i><br>
+        <strong>Description:</strong> A media informatics seminar paper addressing work-related struggles using mobile sensing.
     </li>
 </ul>
 
