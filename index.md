@@ -54,7 +54,7 @@ layout: page
     </li>
     <li><strong>(<a href="https://arxiv.org/abs/2406.08959">2</a>)</strong> <i>Beyond Recommendations: From Backward to Forward AI Support of Pilots’ Decision-Making Process</i><br>
         <strong>Contributors:</strong> Zelun Tony Zhang, Sebastian S. Feger, Lucas Dullenkopf, Rulu Liao, Lou Süsslin, Yuanting Liu, Andreas Butz<br>
-        <strong>Upcoming Publication:</strong> PACM HCI Vol. 8, No. CSCW2, October 2024.<br>
+        <strong>Publication:</strong> PACM HCI Vol. 8, No. CSCW2, October 2024.<br>
         <strong>Description:</strong> A project focused on AI-driven support for pilots' decision-making processes. My contributions centered around the development of novel AI interaction paradigms in high-risk environments.
     </li>
     <li><strong>(<a href="https://www.researchgate.net/publication/371987298_Visualizing_and_Counteracting_Touch_Overlap_during_Public_Display_Interaction">3</a>)</strong> <i>Visualizing and Counteracting Touch Overlap during Public Display Interaction</i><br>
