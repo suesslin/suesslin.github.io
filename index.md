@@ -10,23 +10,39 @@ layout: page
   <figcaption style="color: #828282; padding-top: 5px; font-size: 10pt;">Lou as of April 2025</figcaption>
 </figure>
 
-<h1>Introduction</h1>
+<h1>About Me</h1>
 
-<p>Hello, I'm Lou Elah SÜSSLIN <sub>(Neutral address, Pronouns: they/them<sub>EN</sub>, sie/ihr<sub>DE</sub>)</sub>. Let me introduce myself through my academic and professional career thus far and a few further details about my persona.</p>
+<p>
+  Hello, I'm Lou Elah SÜSSLIN
+  <sub>(Neutral address; Pronouns: they/them<sub>EN</sub>, sie/ihr<sub>DE</sub>)</sub>.
+</p>
 
-<p>I have completed my B.Sc. degree in Computer Science (with Computational Linguistics as a minor) at Ludwig Maximilian University (or: University of Munich) in August of 2023. Since March 2024 I'm living in Vienna and study Data Science (M.Sc.) at Vienna University of Technology (or: TU Wien).
+<p>
+  I hold a B.Sc. in Computer Science with a minor in Computational Linguistics from Ludwig Maximilian University (LMU Munich), completed in August 2023. Since March 2024, I have been based in Vienna, where I am pursuing an M.Sc. in Data Science at Vienna University of Technology (TU Wien).
+</p>
 
-<p>Along my academic journey I have also gained practical experience. As of October 2024, I'm working as a private tutor (100+h of one on one lessons). Otherwise, I have functioned and do function as a teaching assistant for courses such as:<br>
-    <ul>
-        <li><i>Advanced Functional Programming</i>; TU Wien; Prof. Dr. Jens Knoop; S25</li>
-        <li><i>Introduction to Programming 1</i>, TU Wien, Dr. Stefan Podlipnig, W24 &amp; S25</li>
-        <li><i>Introduction to Media Informatics</i> and <i>Human-Computer Interaction</i>; TU Dresden; Prof. Dr. Gerhard Weber; W23</li>
-    </ul>
-During three months of the summer of 2022, I have also supported a research project in Human-AI Interaction Design for aviation at the <i>Research Institute of the Free State of Bavaria for software-intensive Systems and Services</i> (fortiss). I have also gained experience in the industry by working as a Software Engineering Working Student at the renowned German-speaking Q&A platform, gutefrage, from July 2020 to September 2021 in Munich.</p>
-    
-<p>During high school summer breaks, I have interned twice. Once at Apple Design Award-winning Ulysses, a text editor application company in Leipzig, and before at tresmo, an Augsburg-based IoT firm.</p>
+<p>
+  Alongside my studies, I’ve gained valuable teaching and research experience. As of October 2024, I’ve worked as a private tutor, offering over 100 hours of one-on-one lessons. In addition, I have served as a teaching assistant for courses such as:
+</p>
+<ul>
+  <li><em>Advanced Functional Programming</em>, TU Wien, Prof. Dr. Jens Knoop (S25)</li>
+  <li><em>Introduction to Programming 1</em>, TU Wien, Dr. Stefan Podlipnig (W24 &amp; S25)</li>
+  <li><em>Introduction to Media Informatics</em> and <em>Human-Computer Interaction</em>, TU Dresden, Prof. Dr. Gerhard Weber (W23)</li>
+</ul>
 
-<p>In my spare time, amongst other activites, I produce techno and other electronic music and perform as a DJ under the artist name <i>Elah</i>, fomerly as <i>Awkward Endeavor</i><br>(<a href="https://soundcloud.com/awkwardendeavor">SoundCloud</a> | <a href="https://www.residentadvisor.net/dj/elah">Resident Advisor</a>)</p>
+<p>
+  In the summer of 2022, I contributed to a Human-AI Interaction Design research project for aviation at <em>fortiss</em> — the research institute of the Free State of Bavaria for software-intensive systems and services. I also worked in industry as a Software Engineering Working Student at <em>gutefrage.net</em>, a major German Q&A platform, from July 2020 to September 2021.
+</p>
+
+<p>
+  Earlier experiences include internships at <em>Ulysses</em> (a Leipzig-based Apple Design Award-winning writing app) and <em>tresmo</em> (an IoT company in Augsburg), both during high school summer breaks.
+</p>
+
+<p>
+  Outside of academia, I create and perform electronic music. As a DJ and producer, I perform under the artist name <em>Elah</em> (formerly <em>Awkward Endeavor</em>).<br>
+  <a href="https://soundcloud.com/awkwardendeavor">SoundCloud</a> | 
+  <a href="https://www.residentadvisor.net/dj/elah">Resident Advisor</a>
+</p>
 
 <h2>Academic Works</h2>    
         <ul>
@@ -46,5 +62,16 @@ During three months of the summer of 2022, I have also supported a research proj
         <li><a href="https://orcid.org/0009-0004-3922-4578">ORCID (0009-0004-3922-4578)</a></li>
     </ul>
     
-<h2>Origin Story</h2>
-        <p>I was born in Augsburg-Oberhausen, Southern Germany, to a working-class family with deep roots in the East Swabian town dating back to the times coined by protestant weavers in the "Free Imperial City" era (16th century and earlier). My mother is a trained postal worker, and my father worked as a demolition contractor. Both of my grandfathers were predominantly butchers and were of farm families from other areas of the culturally southwestern parts of the Alpine Foreland, predominantly Middle Swabia and East Allgovia. Meanwhile, my grandmothers were born and raised in my hometown, with one of them having more recent roots in the western end of Swabia, in Stuttgart-neighboring Esslingen. I grew up in a 7.5qm room of a 1940s Zeilenbau-apartment located in the Wolfram quarter, a working-class neighborhood in Augsburg's, now historic, Textile District.</p>
+<h2>Roots</h2>
+<p>
+  I was born in Augsburg-Oberhausen, Southern Germany, into a working-class family with deep local ties. Augsburg, situated in the historical region of Swabia, has been home to parts of my family since its early days as a "Free Imperial City," when Protestant weavers played a defining role in the city's social and economic fabric.
+</p>
+
+<p>
+  My mother is a trained postal worker, and my father worked as a demolition contractor. Both of my grandfathers were butchers by trade and came from farming families rooted in Middle Swabia and East Allgovia–areas in the culturally rich Alpine Foreland. My grandmothers were both born and raised in Augsburg, with one having more recent family roots in Esslingen, near Stuttgart.
+</p>
+
+<p>
+  I grew up in a 7.5 m² room in a postwar Zeilenbau apartment in the Wolfram quarter of Augsburg’s historic Textile District—a neighborhood long shaped by labor, resilience, and everyday life.
+</p>
+
