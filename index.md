@@ -45,7 +45,7 @@ layout: page
 </p>
 
 <h2>Academic Works</h2>
-<ul style="list-style-type: none;">
+<ul style="list-style-type: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 10px;">
     <li><strong>[<a href="http://doi.org/10.13140/RG.2.2.29957.87522">1</a>]</strong> <i>Digital Sovereignty and Geopolitics in the Field of Data Protection: A Comparison of the EU, China, and the USA</i><br>
         <strong>Contributors:</strong> Naida Dzigal, Diana Safarpour, Dante Godolja, Lou Elah Süsslin<br>
         <strong>Course:</strong> <i>Digital Humanism</i> at <a href="https://informatics.tuwien.ac.at/digital-humanism/"><i>UNESCO Chair on Digital Humanism</i></a><br>
