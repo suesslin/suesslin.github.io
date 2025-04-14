@@ -5,7 +5,7 @@ title:  "Ancestry"
 
 # Paternal line
 
-## Nikolaus Gerber (1751, Oggersheim/(Electoral) Palatinate – 1821, Munich) and Jakob Anton Gerber (1784/85, Oggersheim/Kurpfalz – 1844, Augsburg)
+## Nikolaus Gerber (1751, Oggersheim/Electoral Palatinate – 1821, Munich) and Jakob Anton Gerber (1784/85, Oggersheim/Electoral Palatinate – 1844, Augsburg)
 
 Nikolaus Gerber was born in the Palatine town of Oggersheim (now the largest district of Ludwigshafen, Rhineland-Palatinate), the son of the Catholic couple Johannes and Maria Apollonia Gerber (née Dumbach/Tumbach). He served as a coachman at the court of the Palatine Wittelsbachs and married the Catholic Maria Catharina Hesselschwerdt (1755–1816), who was born in Mannheim. She was the daughter of Daniel Hesselschwerdt, a court stableman and saddler who likely came from Leimersheim and appears in records from 1724 under the name Johann Daniel Heselswerth/Eselswehrt.
 
