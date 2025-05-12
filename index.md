@@ -18,11 +18,11 @@ layout: page
 </p>
 
 <p>
-  I hold a B.Sc. in Computer Science with a minor in Computational Linguistics from Ludwig Maximilian University (LMU Munich), completed in August 2023. Since March 2024, I have been based in Vienna, where I am pursuing an M.Sc. in Data Science at Vienna University of Technology (TU Wien).
+  I hold a B.Sc. in Computer Science with a minor in Computational Linguistics from Ludwig Maximilian University (LMU Munich), completed in August 2023. Since March 2024, I have been based in Vienna, where I am pursuing an M.Sc. in Data Science at Vienna University of Technology (TU Wien). Starting June 2025, I will function as Research Assistant in the Research Unit Building construction and Building Preservation at the Faculty of Civil and Environmental Engineering of TU Wien. 
 </p>
 
 <p>
-  Alongside my studies, I’ve gained valuable teaching and research experience. As of October 2024, I’ve worked as a private tutor, offering over 100 hours of one-on-one lessons. In addition, I have served as a teaching assistant for courses such as:
+  Alongside my studies, I’ve gained valuable teaching and further research experience. From March 2024 to May 2025 I’ve worked as a private tutor, offering over 110 hours of one-on-one lessons. In addition, I have served as a teaching assistant for courses such as:
 </p>
 <ul>
   <li><em>Advanced Functional Programming</em>, TU Wien, Prof. Dr. Jens Knoop (S25)</li>
