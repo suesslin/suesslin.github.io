@@ -14,7 +14,7 @@ layout: page
 
 <p>
   Hello, I'm Lou Elah SÜSSLIN
-  <sub>(Feminine or neutral address; Pronouns: <i>she/her</i> or <i>they/them</i>)</sub>.
+  <sub>(Feminine/neutral address; Pronouns: <i>she/her</i>, <i>they/them</i>)</sub>.
 </p>
 
 <p>
