@@ -3,9 +3,6 @@ layout: page
 title: Academic Works
 permalink: /academic-works/
 ---
-
-<h1>Academic Works</h1>
-
 <ul style="list-style-type: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 10px;">
     <li><strong>[<a href="http://doi.org/10.13140/RG.2.2.29957.87522">1</a>]</strong> <i>Digital Sovereignty and Geopolitics in the Field of Data Protection: A Comparison of the EU, China, and the USA</i><br>
         <strong>Contributors:</strong> Naida Dzigal, Diana Safarpour, Dante Godolja, Lou Elah Süsslin<br>
