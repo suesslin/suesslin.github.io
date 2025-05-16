@@ -43,9 +43,7 @@ The most recent update was on {{ site.time | date: "%-d. %B %Y" }}.
 </ul>
 
 <h2>Talks/Presentations</h2>
-<h3>Labor union</h3>
+<h3>Labor union (German)</h3>
   <ul>
     <li>NUWiss – Netzwerk Unterbau Wissenschaft (Producer). (2025, April 3). Umfrage zur Situation des Mittelbaus an österreichischen Universitäten [Video recording]. FAKTory. <a href="https://www.youtube.com/watch?v=gWepdKlMtp4">https://www.youtube.com/watch?v=gWepdKlMtp4</a></li>
   </ul>
-</h2>
-
