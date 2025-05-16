@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Literature
-permalink: /literature/
+title: Recommended material
+permalink: /recommended-material/
 ---
 This is a list of sources I read in an academic context and recommend. It will keep on growing.
 This page was updated last on {{ site.time | date: "%-d. %B %Y" }}.
 
-<h2>Recommendations</h2>
-<h3>Books</h3>
+<h2>Books</h2>
 <ul>
   <li>German
     <ul>
@@ -16,10 +15,10 @@ This page was updated last on {{ site.time | date: "%-d. %B %Y" }}.
   </li>
 </ul>
 
-<h3>Articles</h3>
+<h2>Articles</h2>
 <ul>
   <li>
-    <h4>Academic</h4>
+    <h3>Academic</h3>
 <ul>
   <li>Giunchiglia, E., Stoian, M. C., & Lukasiewicz, T. (2022). Deep Learning with Logical Constraints. In L. D. Raedt (Ed.), Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence, IJCAI-22 (pp. 5478–5485). International Joint Conferences on Artificial Intelligence Organization. <a href="https://doi.org/10.24963/ijcai.2022/767">https://doi.org/10.24963/ijcai.2022/767</a>
 </li>
@@ -33,7 +32,7 @@ This page was updated last on {{ site.time | date: "%-d. %B %Y" }}.
 
   </li>
   <li>
-  <h4>Other</h4>
+  <h3>Other</h3>
   <ul>
       <li>
 
@@ -42,3 +41,11 @@ This page was updated last on {{ site.time | date: "%-d. %B %Y" }}.
   </ul>
 </li>
 </ul>
+
+<h2>Talks/Presentations</h2>
+<h3>Labor union</h3>
+  <ul>
+    <li>NUWiss – Netzwerk Unterbau Wissenschaft (Producer). (2025, April 3). Umfrage zur Situation des Mittelbaus an österreichischen Universitäten [Video recording]. FAKTory. <a href="https://www.youtube.com/watch?v=gWepdKlMtp4">https://www.youtube.com/watch?v=gWepdKlMtp4</a></li>
+  </ul>
+</h2>
+
