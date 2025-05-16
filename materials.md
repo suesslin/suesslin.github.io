@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Recommended material
-permalink: /material/
+title: Materials
+permalink: /materials
 ---
-This is a list of sources I read in an academic context and recommend. It will keep on growing.
-This page was updated last on {{ site.time | date: "%-d. %B %Y" }}.
+Various sources related to academia and labor union work. This list will be continuously expanded.
+The most recent update was on {{ site.time | date: "%-d. %B %Y" }}.
 
 <h2>Books</h2>
 <ul>
