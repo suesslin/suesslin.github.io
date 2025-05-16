@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Recommended material
-permalink: /recommended-material/
+permalink: /material/
 ---
 This is a list of sources I read in an academic context and recommend. It will keep on growing.
 This page was updated last on {{ site.time | date: "%-d. %B %Y" }}.
