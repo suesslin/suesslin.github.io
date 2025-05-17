@@ -3,7 +3,7 @@ layout: page
 title: Materials
 permalink: /materials
 ---
-<p>This list compiles academic and labor union–related sources and is updated regularly.<br>
+<p>This list compiles different sources and is updated regularly.<br>
 Last updated: {{ site.time | date: "%-d. %B %Y" }}.</p>
 
 <h2>Books (German)</h2>
