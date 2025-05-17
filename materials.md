@@ -29,8 +29,9 @@ Last updated: {{ site.time | date: "%-d. %B %Y" }}.</p>
   <li>Sarkar, A. (n.d.). Getting started with Nix for Haskell. <a href="https://abhinavsarkar.net/posts/nix-for-haskell/">https://abhinavsarkar.net/posts/nix-for-haskell/</a></li>
 </ul>
 
+<!--
 <h2>Talks & Presentations (German)</h2>
 <ul>
   <li>NUWiss – Netzwerk Unterbau Wissenschaft (Producer). (2025, April 3). <i>Umfrage zur Situation des Mittelbaus an österreichischen Universitäten</i> [Video recording]. FAKTory. <a href="https://www.youtube.com/watch?v=gWepdKlMtp4">https://www.youtube.com/watch?v=gWepdKlMtp4</a></li>
-</ul>
+</ul>--> 
 
