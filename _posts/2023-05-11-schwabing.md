@@ -4,6 +4,7 @@ title:  "Schwabing: Eine Liebesgeschichte"
 tags: deutsch aufsatz münchen schwabing 
 date: 2023-05-11
 sitemap: false
+robots: noindex
 ---
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/4RS8XJv/schwabing-wappen.png" alt="schwabing-wappen" border="0" width="130px"></a>
 
