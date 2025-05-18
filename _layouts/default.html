@@ -33,6 +33,10 @@
     {%- if jekyll.environment == 'production' and site.google_analytics -%}
       {%- include google-analytics.html -%}
     {%- endif -%}
+
+    {% if page.robots == "noindex" %}
+      <meta name="robots" content="noindex">
+    {% endif %}
 </head>
   
 
