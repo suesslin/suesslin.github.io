@@ -13,6 +13,14 @@ Last updated: {{ site.time | date: "%-d. %B %Y" }}.</p>
 
 <h2>Academic Articles</h2>
 <ul>
+  <li>Fiaschi, L., & Cococcioni, M. (2024). Informed deep hierarchical classification: a non-standard analysis inspired approach. <a href="https://arxiv.org/abs/2409.16956"></a></li>
+  
+  <li>Stoian, M. C., Tatomir, A., Lukasiewicz, T., & Giunchiglia, E. (2024). PiShield: a PyTorch package for learning with requirements. Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence. <a href=" https://doi.org/10.24963/ijcai.2024/1037">https://doi.org/10.24963/ijcai.2024/1037</a></li>
+  
+  <li>Giunchiglia, E., Tatomir, A., Stoian, M. C., & Lukasiewicz, T. (2024). CCN+: A neuro-symbolic framework for deep learning with requirements. International Journal of Approximate Reasoning, 171, 109124. <a href="https://doi.org/https://doi.org/10.1016/j.ijar.2024.109124">https://doi.org/https://doi.org/10.1016/j.ijar.2024.109124</a></li>
+
+  <li>Giunchiglia, E., & Lukasiewicz, T. (2021). Multi-Label Classification Neural Networks with Hard Logical Constraints. CoRR, abs/2103.13427. <a href="https://arxiv.org/abs/2103.13427">https://arxiv.org/abs/2103.13427</a></li>
+  
   <li>Giunchiglia, E., Stoian, M. C., & Lukasiewicz, T. (2022). Deep learning with logical constraints. In L. D. Raedt (Ed.), <i>Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence, IJCAI-22</i> (pp. 5478–5485). International Joint Conferences on Artificial Intelligence Organization. <a href="https://doi.org/10.24963/ijcai.2022/767">https://doi.org/10.24963/ijcai.2022/767</a></li>
 
   <li>Niebel, C. (2021). The impact of the General Data Protection Regulation on innovation and the global political economy. <i>Computer Law & Security Review, 40</i>, 105523. <a href="https://doi.org/10.1016/j.clsr.2020.105523">https://doi.org/10.1016/j.clsr.2020.105523</a></li>
