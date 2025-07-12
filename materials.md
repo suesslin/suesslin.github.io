@@ -17,7 +17,7 @@ Last updated: {{ site.time | date: "%-d. %B %Y" }}.</p>
   
   <li>Stoian, M. C., Tatomir, A., Lukasiewicz, T., & Giunchiglia, E. (2024). PiShield: a PyTorch package for learning with requirements. Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence. <a href=" https://doi.org/10.24963/ijcai.2024/1037">https://doi.org/10.24963/ijcai.2024/1037</a></li>
   
-  <li>Giunchiglia, E., Tatomir, A., Stoian, M. C., & Lukasiewicz, T. (2024). CCN+: A neuro-symbolic framework for deep learning with requirements. International Journal of Approximate Reasoning, 171, 109124. <a href="https://doi.org/https://doi.org/10.1016/j.ijar.2024.109124">https://doi.org/https://doi.org/10.1016/j.ijar.2024.109124</a></li>
+  <li>Giunchiglia, E., Tatomir, A., Stoian, M. C., & Lukasiewicz, T. (2024). CCN+: A neuro-symbolic framework for deep learning with requirements. International Journal of Approximate Reasoning, 171, 109124. <a href="https://doi.org/10.1016/j.ijar.2024.109124">https://doi.org/10.1016/j.ijar.2024.109124</a></li>
 
   <li>Giunchiglia, E., & Lukasiewicz, T. (2021). Multi-Label Classification Neural Networks with Hard Logical Constraints. CoRR, abs/2103.13427. <a href="https://arxiv.org/abs/2103.13427">https://arxiv.org/abs/2103.13427</a></li>
   
