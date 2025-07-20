@@ -5,7 +5,7 @@ permalink: /academic-works/
 ---
 <ul style="list-style-type: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 10px;">
     <li><strong>[1]</strong> <i>Designing Safer Touch Displays: Digitally Distributing Physical Touch on a Public Display</i><br>
-        <strong>Authors:</strong> L. E. Süsslin, Ville Mäkelä, Florian Alt, Linda Hirsch<br>
+        <strong>Authors:</strong> Lou Elah Süsslin, Ville Mäkelä, Florian Alt, Linda Hirsch<br>
         <strong>Publication:</strong> In Proceedings of Mensch und Computer 2025 (MuC ’25), Association for Computing Machinery, New York, NY, USA, 2025.
     </li>
     <li><strong>[<a href="http://doi.org/10.13140/RG.2.2.29957.87522">2</a>]</strong> <i>Digital Sovereignty and Geopolitics in the Field of Data Protection: A Comparison of the EU, China, and the USA</i><br>
