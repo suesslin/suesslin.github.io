@@ -13,6 +13,8 @@ Last updated: {{ site.time | date: "%-d. %B %Y" }}.</p>
 
 <h2>Academic Articles</h2>
 <ul>
+  <li>Zhang, H., Shen, T., Wu, F., Yin, M., Yang, H., & Wu, C. (2021). Federated Graph Learning - A Position Paper. CoRR, abs/2105.11099. <a href="https://arxiv.org/abs/2105.11099">https://arxiv.org/abs/2105.11099</a></li>
+  
   <li>Fiaschi, L., & Cococcioni, M. (2024). Informed deep hierarchical classification: a non-standard analysis inspired approach. <a href="https://doi.org/10.48550/arXiv.2409.16956">https://doi.org/10.48550/arXiv.2409.16956</a></li>
   
   <li>Stoian, M. C., Tatomir, A., Lukasiewicz, T., & Giunchiglia, E. (2024). PiShield: a PyTorch package for learning with requirements. Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence. <a href=" https://doi.org/10.24963/ijcai.2024/1037">https://doi.org/10.24963/ijcai.2024/1037</a></li>
