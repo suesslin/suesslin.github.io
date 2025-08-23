@@ -34,6 +34,7 @@ permalink: /academic-works/
         <ul>
             <li><strong>Source:</strong> <a href="https://www.researchgate.net/publication/371987298_Visualizing_and_Counteracting_Touch_Overlap_during_Public_Display_Interaction">ResearchGate</a></li>
             <li><strong>Bachelor's Thesis:</strong> HCI group at LMU Munich.</li>
+            <li><strong>Grade:</strong> 1.0 (Very Good)</li>
         </ul>
     </li>
     <li>
