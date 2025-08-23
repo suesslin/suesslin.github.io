@@ -8,7 +8,7 @@ permalink: /academic-works/
         <i>Designing Safer Touch Displays: Digitally Distributing Physical Touch on a Public Display</i><br>
         <strong>Authors:</strong> Lou Elah Süsslin, Ville Mäkelä, Florian Alt, Linda Hirsch
         <ul>
-            <li><strong>Source:</strong> Proceedings of Mensch und Computer 2025 (MuC ’25)</li>
+            <li><strong>Source:</strong> <a href="https://doi.org/10.1145/3743049.3743083">Proceedings of Mensch und Computer 2025 (MuC ’25)</a></li>
             <li><strong>Presentation:</strong> <a href="https://youtu.be/R6GyULagwS0">YouTube</a></li>
         </ul>
     </li>
