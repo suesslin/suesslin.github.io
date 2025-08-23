@@ -11,7 +11,7 @@ layout: page
 
 <p>
   Hello, I'm Lou Elah SÜSSLIN
-  <sub>(Feminine address, Pronouns: <i>she/her</i></sub>.
+  <sub>(Feminine address, Pronouns: <i>she/her</i>)</sub>.
 </p>
 
 <p>
@@ -48,5 +48,6 @@ layout: page
 <p>
   I grew up in a 7.5 m² room in a postwar Zeilenbau apartment in the Wolfram quarter of Augsburg’s historic Textile District—a neighborhood long shaped by labor, resilience, and everyday life.
 </p>
+
 
 
