@@ -40,16 +40,16 @@ permalink: /academic-works/
     <li>
         <i>Programmiersprache L</i>
         <ul>
+            <li><strong>Description:</strong> A logical programming language written in Haskell for a practical seminar.</li>
             <li><strong>Contributors:</strong> Marco D'Amelio, Maximilian Seilmaier, Lou Elah Süsslin</li>
             <li><strong>Source:</strong> <a href="https://github.com/luki/programmiersprache-l">GitHub</a></li>
-            <li><strong>Description:</strong> A logical programming language written in Haskell for a practical seminar.</li>
         </ul>
     </li>
     <li>
         <i>Alleviating Struggles at the Office: Leveraging Mobile Sensing to Understand and Counteract Issues</i>
         <ul>
-            <li><strong>Source:</strong> <a href="https://github.com/luki/alleviating-struggles-in-the-office">GitHub</a></li>
             <li><strong>Description:</strong> A media informatics seminar paper addressing work-related struggles using mobile sensing.</li>
+            <li><strong>Source:</strong> <a href="https://github.com/luki/alleviating-struggles-in-the-office">GitHub</a></li>
         </ul>
     </li>
 </ul>
