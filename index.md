@@ -15,7 +15,7 @@ layout: page
 </p>
 
 <p>
-  I hold a B.Sc. in Computer Science with a minor in Computational Linguistics from Ludwig Maximilian University (LMU Munich), completed in August 2023. Currently, I'm a postgrad student of Logic and Artificial Intelligence at Vienna University of Technology (TU Wien). Since June 2025, I'm with the Research Unit Building Construction and Building Preservation at the Faculty of Civil and Environmental Engineering of TU Wien, functioning as Research Assistant.
+  I hold a B.Sc. in Computer Science with a minor in Computational Linguistics from Ludwig Maximilian University (LMU Munich), completed in August 2023. Currently, I'm a postgrad student of Logic and Artificial Intelligence at Vienna University of Technology (TU Wien).
 </p>
 
 <p>
@@ -48,6 +48,7 @@ layout: page
 <p>
   I grew up in a 7.5 m² room in a postwar Zeilenbau apartment in the Wolfram quarter of Augsburg’s historic Textile District—a neighborhood long shaped by labor, resilience, and everyday life.
 </p>
+
 
 
 
