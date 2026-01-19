@@ -16,7 +16,7 @@ permalink: /materials
     Süsslin, L. E. (2025). <i>Teaching neural networks the rules: A selection of solutions to guarantee compliance of NNs by design</i>
     [Presentation slides]. GitHub.
     <a href="https://github.com/suesslin/postgrad-presentation-slides/raw/main/Seminar_in_Knowledge_Representation_and_Reasoning-Neurosymbolic_Artificial%20Intelligence.pdf">
-      https://github.com/suesslin/postgrad-presentation-slides/raw/main/Seminar_in_Knowledge_Representation_and_Reasoning-Neurosymbolic_Artificial%20Intelligence.pdf
+      Slides (PDF)
     </a>
     <br>
     <small>
@@ -25,23 +25,21 @@ permalink: /materials
   </li>
 
   <li>
-    Süsslin, L. E. (2025). <i>Designing safer touch displays: Digitally distributing physical touch on a public display</i>
-    [Presentation slides]. GitHub.
+    Süsslin, L. E., Mäkelä, V., Alt, F., &amp; Hirsch, L. (2025). <i>Designing safer touch displays: Digitally distributing physical touch on a public display</i>
+    [Conference presentation]. MuC 2025 (Mensch und Computer).
     <a href="https://github.com/suesslin/postgrad-presentation-slides/raw/main/Designing_Safer_Touch_Displays-Digitally_Distributing_Physical_Touch_on_a_Public_Display.pdf">
-      https://github.com/suesslin/postgrad-presentation-slides/raw/main/Designing_Safer_Touch_Displays-Digitally_Distributing_Physical_Touch_on_a_Public_Display.pdf
-    </a>
+      Slides (PDF)
+    </a>;
+    <a href="https://www.youtube.com/watch?v=R6GyULagwS0">
+      Video (YouTube)
+    </a>.
     <br>
     <small>
-      Conference paper talk at Mensch und Computer 2025 (MuC ’25).
-      Video:
-      <a href="https://www.youtube.com/watch?v=R6GyULagwS0">
-        https://www.youtube.com/watch?v=R6GyULagwS0
-      </a>
+      Related publication: <i>Proceedings of Mensch und Computer 2025 (MuC ’25)</i>.
     </small>
   </li>
 </ul>
 
-<h2>External sources</h2>
 
 <h3>Books (German)</h3>
 <ul>
