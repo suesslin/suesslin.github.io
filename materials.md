@@ -23,6 +23,22 @@ permalink: /materials
       Presented at the Seminar in Knowledge Representation and Reasoning: Neurosymbolic Artificial Intelligence, TU Wien (Summer term 2025).
     </small>
   </li>
+
+  <li>
+    Süsslin, L. E. (2025). <i>Designing safer touch displays: Digitally distributing physical touch on a public display</i>
+    [Presentation slides]. GitHub.
+    <a href="https://github.com/suesslin/postgrad-presentation-slides/raw/main/Designing_Safer_Touch_Displays-Digitally_Distributing_Physical_Touch_on_a_Public_Display.pdf">
+      https://github.com/suesslin/postgrad-presentation-slides/raw/main/Designing_Safer_Touch_Displays-Digitally_Distributing_Physical_Touch_on_a_Public_Display.pdf
+    </a>
+    <br>
+    <small>
+      Conference paper talk at Mensch und Computer 2025 (MuC ’25).
+      Video:
+      <a href="https://www.youtube.com/watch?v=R6GyULagwS0">
+        https://www.youtube.com/watch?v=R6GyULagwS0
+      </a>
+    </small>
+  </li>
 </ul>
 
 <h2>External sources</h2>
