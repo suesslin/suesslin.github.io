@@ -12,6 +12,17 @@ permalink: /materials
 
 <h2>My work</h2>
 <ul>
+    <li>
+    Süsslin, L. E. (2026). <i>At the Intersection of Neuro-Symbolic AI and Federated Learning</i>
+    [Presentation slides]. GitHub.
+    <a href="https://github.com/suesslin/postgrad-presentation-slides/blob/main/Intersection_of_FL_and_NeSy-1.pdf">
+      Slides (PDF)
+    </a>
+    <br>
+    <small>
+      Presented at the Seminar in Artifical Intelligence, TU Wien (Winter term 2025/26).
+    </small>
+  </li>
   <li>
     Süsslin, L. E. (2025). <i>Teaching neural networks the rules: A selection of solutions to guarantee compliance of NNs by design</i>
     [Presentation slides]. GitHub.
