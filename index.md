@@ -3,14 +3,14 @@ layout: page
 ---
 
 <figure style="margin-bottom: 0; padding: 0px 0px 40px 50px; float: right; max-width: 30%; height: auto; @media only screen and (max-width: 780px) { float: none; }">
-  <img style="width: 120px; border-radius: 50%" src="https://avatars.githubusercontent.com/u/15147703?v=4">
+  <img style="width: 130px; border-radius: 50%" src="https://raw.githubusercontent.com/suesslin/suesslin.github.io/refs/heads/master/pic.png">
   <figcaption style="color: #828282; padding-top: 5px; font-size: 10pt;">Lou as of April 2025</figcaption>
 </figure>
 
 <h1>About Me</h1>
 
 <p>
-  Hello, I'm Lou Elah SÜSSLIN
+  Hello, I'm Lou SÜSSLIN
   <sub>(Feminine address, Pronouns: <i>she/her</i>)</sub>.
 </p>
 
@@ -48,6 +48,7 @@ layout: page
 <p>
   I grew up in a 7.5 m² room in a postwar Zeilenbau apartment in the Wolfram quarter of Augsburg’s historic Textile District—a neighborhood long shaped by labor, resilience, and everyday life.
 </p>
+
 
 
 
