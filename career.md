@@ -11,7 +11,7 @@ permalink: /career/
 </p>
 <ul>
   <li><em>Advanced Functional Programming</em>, TU Wien, Prof. Dr. Jens Knoop (S25)</li>
-  <li><em>Introduction to Programming 1</em>, TU Wien, Dr. Stefan Podlipnig (W24 &amp; S25)</li>
+  <li><em>Introduction to Programming 1</em>, TU Wien, Dr. Stefan Podlipnig (W24, S25 &amp; S26)</li>
   <li><em>Introduction to Media Informatics</em> and <em>Human-computer Interaction</em>, TU Dresden, Prof. Dr. Gerhard Weber (W23)</li>
 </ul>
 
