@@ -8,29 +8,29 @@ date: 2023-12-25
 scene: the general strike
 (Translated, March 11, 2026)
 
-Through the city streets the cry goes up:
-MAKE IT A LONG WEEKEND, PEOPLE
-GO TO THE CLUBS
-PAY NOTHING AT THE DOOR
+Through the city streets the cry goes up:<br>
+MAKE IT A LONG WEEKEND, PEOPLE<br>
+GO TO THE CLUBS<br>
+PAY NOTHING AT THE DOOR<br>
 
-Outside one club some people tell the bouncers:
-Boys, this is no workday.
-This is strike day.
+Outside one club some people tell the bouncers:<br>
+Boys, this is no workday.<br>
+This is strike day.<br>
 
-In they go.
-The owners are thrown out.
+In they go.<br>
+The owners are thrown out.<br>
 
-Inside:
-DJs on strike.
-Beer brought in from outside blocks the bar.
-Somebody breaks out of the crowd, makes for the mixer.
-A USB stick appears.
-A few words with a DJ.
-Then — “The Solidarity Song.”
-a loud “Hell yes!” from the crowd.
-then up onto the booth come the speechmakers.
+Inside:<br>
+DJs on strike.<br>
+Beer brought in from outside blocks the bar.<br>
+Somebody breaks out of the crowd, makes for the mixer.<br>
+A USB stick appears.<br>
+A few words with a DJ.<br>
+Then — “The Solidarity Song.”<br>
+a loud “Hell yes!” from the crowd.<br>
+then up onto the booth come the speechmakers.<br>
 
-One big uproar.
+One big uproar.<br>
 One big city mess.
 
 
