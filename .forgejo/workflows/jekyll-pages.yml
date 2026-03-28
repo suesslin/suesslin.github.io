@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - name: Check out source
-        uses: actions/checkout@v4
+        uses: https://data.forgejo.org/actions/checkout@v4
 
       - name: Set up Ruby
         uses: https://github.com/ruby/setup-ruby@v1
@@ -24,13 +24,24 @@ jobs:
         run: |
           bundle install
           bundle exec jekyll build
-
-      - name: Add custom domain file
-        run: |
           cp .domains _site/.domains
 
-      - name: Deploy to pages branch
-        uses: https://code.forgejo.org/forgejo/pages-action@v0.0.13
-        with:
-          folder: _site
-          branch: pages
+      - name: Deploy built site to pages branch
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.name "forgejo-actions"
+          git config --global user.email "actions@users.noreply.codeberg.org"
+
+          git clone "https://oauth2:${TOKEN}@codeberg.org/suesslin/pages.git" deploy-repo
+          cd deploy-repo
+
+          git checkout pages || git checkout --orphan pages
+
+          find . -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
+
+          cp -r ../_site/* .
+
+          git add .
+          git commit -m "Deploy site from ${GITHUB_SHA}" || echo "No changes to commit"
+          git push origin pages
