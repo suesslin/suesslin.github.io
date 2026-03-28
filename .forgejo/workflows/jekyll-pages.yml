@@ -1,0 +1,36 @@
+name: Build and deploy Jekyll site
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build-and-deploy:
+    runs-on: docker
+
+    steps:
+      - name: Check out source
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: https://github.com/ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler-cache: true
+
+      - name: Build site
+        run: |
+          bundle install
+          bundle exec jekyll build
+
+      - name: Add custom domain file
+        run: |
+          cp .domains _site/.domains
+
+      - name: Deploy to pages branch
+        uses: https://code.forgejo.org/forgejo/pages-action@v0.0.13
+        with:
+          folder: _site
+          branch: pages
